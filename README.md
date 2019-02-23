@@ -2,7 +2,9 @@
 Solving Akari using CSP
 
 
-Akari uses a rectangular grid of black cells and white cells.1 The player solves
+Akari uses a rectangular grid of black cells and white cells.
+
+The player solves
 puzzles via placing light bulbs in the white boxes according to following rules:
  Light bulbs are permitted to be placed at any white square. A numbered square
 indicates how many light bulbs are next to it, vertically and horizontally.
