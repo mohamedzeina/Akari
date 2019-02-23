@@ -19,3 +19,4 @@ A numbered cell represents the numbered squared mentioned above
 
 Any user can simply put their desired input (puzzle) by simply changing the matrix "matrix" inside the code. 
 This code only solves 7x7 Akari Puzzles
+3 Files are included in the Akari folder. Three 7x7 puzzles with different difficulties 
